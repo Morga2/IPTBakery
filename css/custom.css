@@ -2,3 +2,13 @@
     margin-top: 10px;
     border: none;
 }
+
+.topspacer {
+        margin-top: 50px;
+}
+
+footer {
+    margin-left:0px;
+    margin-right:0px;
+    padding-left: 5%;
+}
