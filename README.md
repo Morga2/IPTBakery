@@ -1,6 +1,4 @@
-# IPTBakery
-
-This is a web site for IPT Assignment Two.
+# Bakery
 
 ## Links
 
